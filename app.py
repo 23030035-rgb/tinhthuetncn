@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Logo
-st.image("logo.jpg.png")
+st.image("logo.jpg2.png")
 
 # Thông tin
 st.markdown("### 📝 **NGUYỄN NGỌC MINH THƯ**")
